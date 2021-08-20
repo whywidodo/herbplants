@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Quicksand:wght@500&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+p,
+span {
+  font-family: "Quicksand", sans-serif;
+}
+.link-color {
+  color: #333;
+}
+
+.link-color:hover {
+  color: #388e3c;
+}
