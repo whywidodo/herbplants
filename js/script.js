@@ -35,6 +35,8 @@ $.ajax({
             nilaiAwal = 40; jumlahData = 50;
         }else if(datax == 6){
             nilaiAwal = 50; jumlahData = 60;
+        }else{
+            nilaiAwal = 0; jumlahData = 10;
         }
         for (var i = nilaiAwal; i < jumlahData; i++) {
             var namaTanaman = detail['daftar_tanaman'][i]['nama'];
