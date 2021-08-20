@@ -14,3 +14,10 @@ span {
 .link-color:hover {
   color: #388e3c;
 }
+
+.back-to-top {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  display: none;
+}
